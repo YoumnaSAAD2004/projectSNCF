@@ -37,11 +37,6 @@ La page de statistiques fournit une analyse du trafic du site, en mettant en ava
 * SAAD Youmna
 * TAOUAL Younes
 
-## Accès et Ressources :
-→ Lien vers le [Site web](http://decoration.alwaysdata.net/)
-
-→ Lien vers la [Démonstration vidéo]()
-
 
 
 
