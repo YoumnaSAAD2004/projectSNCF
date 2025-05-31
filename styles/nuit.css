@@ -1,0 +1,57 @@
+body {
+    background: linear-gradient(to bottom, #00080d 0%, #02121b 100%);
+}
+body.darkmode {
+    background-color: #000;
+    color: #fff;
+}
+
+thead {
+    background-color: #000000;
+    color: #fff;
+}
+
+nav {
+    background-color: #000; /* Couleur de fond de la navigation en mode nuit */
+}
+
+.nav-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+ul li a {
+    color: #fff; /* Couleur du texte des liens en mode nuit */
+}
+
+ul li a:hover {
+    background-color: #333; /* Couleur de fond au survol en mode nuit */
+}
+
+footer {
+    background-color: #000; /* Couleur de fond du footer en mode nuit */
+    border-top: 1px solid #fff; /* Bordure supérieure en mode nuit */
+}
+
+footer p {
+    margin-bottom: 10px;
+    color: #fff; /* Couleur du texte du footer en mode nuit */
+}
+
+footer a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Ajout du style pour le bouton darkmode */
+header .darkmode {
+    border-color: #fff; /* Couleur de la bordure du bouton en mode nuit */
+}
+
+header .darkmode::before {
+    background-color: #fff; /* Couleur de l'icône du bouton en mode nuit */
+}
